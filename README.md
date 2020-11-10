@@ -16,6 +16,10 @@ $ npm i react-native-dropdownview --save
 $ yarn add react-native-dropdownview
 ```
 
+<p align="rigth">
+  <img alt="react-native-awesome-alerts" src="https://media.giphy.com/media/F1OvUzgTlEsA5g7SFR/giphy.gif">
+</p
+
 ### Basic Usage
 ```jsx
 import * as React from 'react';
@@ -51,7 +55,7 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    paddingTop: Constants.statusBarHeight,
+    paddingTop: 20,
     backgroundColor: '#ecf0f1',
     padding: 8,
   },text:{
