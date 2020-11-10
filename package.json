@@ -1,0 +1,25 @@
+{
+  "name": "react-native-dropdownview",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mecitdeniz/react-native-dropdownview.git"
+  },
+  "author": "mecitdeniz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mecitdeniz/react-native-dropdownview/issues"
+  },
+  "homepage": "https://github.com/mecitdeniz/react-native-dropdownview#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.64.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
