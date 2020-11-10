@@ -16,12 +16,12 @@ $ npm i react-native-dropdownview --save
 $ yarn add react-native-dropdownview
 ```
 
-### Basic Usage
 
 <p align="rigth">
   <img alt="react-native-awesome-alerts" src="https://media.giphy.com/media/F1OvUzgTlEsA5g7SFR/giphy.gif">
 </p
 
+### Basic Usage
 
 ```jsx
 import * as React from 'react';
